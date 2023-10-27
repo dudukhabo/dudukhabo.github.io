@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdc2b38c.css",
+    "main.js": "/static/js/main.e8c6f3b8.js",
+    "static/media/oral-sex-tips5-1559138695.jpg": "/static/media/oral-sex-tips5-1559138695.c4ce161ab85c3215befa.jpg",
+    "index.html": "/index.html",
+    "main.bdc2b38c.css.map": "/static/css/main.bdc2b38c.css.map",
+    "main.e8c6f3b8.js.map": "/static/js/main.e8c6f3b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc2b38c.css",
+    "static/js/main.e8c6f3b8.js"
+  ]
+}
